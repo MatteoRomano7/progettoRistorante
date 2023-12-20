@@ -12,8 +12,6 @@ function App() {
       <CustomNavbar testoAddizionale="Il nostro ristorante epico!" />
       <Home />
       <hr />
-      <MyForm1 />
-      <MyForm2 />
       <Prenotazione />
     </div>
   )
